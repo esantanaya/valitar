@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "valitar"
 version = "0.1.0"
-description = ""
+description = "Indica si una tarjeta es American Express, Visa, Mastercard o Invalida"
 authors = ["Enrique Santana <esantanaya@gmail.com>"]
 
 [tool.poetry.dependencies]
